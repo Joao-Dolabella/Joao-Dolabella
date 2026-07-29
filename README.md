@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Joao Dolabella
 
-<!--
-**Joao-Dolabella/Joao-Dolabella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer focused on low-level engineering, system architecture, and performance. I work on solving logical bottlenecks and structuring applications where memory efficiency and hardware control are critical.
 
-Here are some ideas to get you started:
+### ⚙️ Tech Stack & Current Focus
+- **Languages:** C++, C
+- **Build Tools:** CMake, GCC/Clang
+- **Diagnostics & Debugging:** GDB, Valgrind, Memory Analysis
+- **Technical Interests:** Reverse Engineering, Algorithm Optimization, Pointer Manipulation, and System Architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Building
+Currently developing CLI tools and solidifying the practical use of Modern C++ (C++11/20), *Smart Pointers*, and *Move Semantics* to ensure memory-leak-free applications.
+
+### 📬 Contact
+- **Upwork:** https://www.upwork.com/freelancers/~0161115387fe6ec39b
+- **Email:** dolabella.dev@gmail.com
